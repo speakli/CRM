@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env*
+.DS_Store
+data/*_backup*.tsv
+data/*_backup*.csv
+data/companies-enriched.csv
